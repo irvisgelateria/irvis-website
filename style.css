@@ -1,0 +1,31 @@
+.jumbotron.text-center {
+    background-image: url("assets/logo-background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-brown {
+    background-color: rgb(68, 50, 39);
+}
+
+.text-panna {
+    color: rgb(240, 220, 200);
+}
+
+.text-panna-muted {
+    color: rgba(240, 220, 200, .5);
+}
+
+.navbar-dark .navbar-brand {
+    color: rgb(240, 220, 200);
+}
+
+.jumbotron {
+    border-radius: 0;
+}
+
+.bg-panna {
+    background-color: rgb(251, 246, 241);
+}
+}
