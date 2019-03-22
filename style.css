@@ -28,4 +28,23 @@
 .bg-panna {
     background-color: rgb(251, 246, 241);
 }
+
+.navbar-toggler {
+    float: right;
+}
+
+.navbar>.container, .navbar>.container-fluid {
+    justify-content: flex-end;
+}
+
+.list-unstyled a:hover {
+    color: white;
+}
+
+footer a {
+    color: rgb(68, 50, 39);
+}
+
+footer a:hover {
+    color: rgb(68, 50, 39);
 }
