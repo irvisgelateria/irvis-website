@@ -1,8 +1,15 @@
-.jumbotron.text-center {
+.jumbotron.text-center.icecream {
     background-image: url("assets/logo-background.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.jumbotron.text-center.apertura {
+    background-color: rgb(240, 220, 200);
+    color: rgb(68, 50, 39);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .bg-brown {
